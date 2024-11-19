@@ -21,6 +21,9 @@
 
 - [x] Curso CodelyTV | Curso de DDD
 
+- [x] Backup | Nextcloud RPI
+
+- [x] Backup | FoodApp RPI
   
 
 
@@ -28,7 +31,7 @@
 
 
 
-- [ ] Crear proyecto Librería 
+- [ ] Crear proyecto Librería | Angular & API
 
 - [ ] Curso de Extreme Programming | [codelyTv](https://pro.codely.com/library/extreme-programming-171308/386675/path/)
 
